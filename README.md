@@ -4,7 +4,9 @@ A laravel CRUD application using FW7 library.
 # Features 👇
 
 ► Sorting in ascending or descending order according to columns.
+
 ► Filtering and searching.
+
 ► Pagination.
 
 # Screenshots 📷

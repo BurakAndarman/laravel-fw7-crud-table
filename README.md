@@ -17,8 +17,8 @@ A Laravel CRUD application using FW7 library.
 
 ◻ Record Adding Page ⬇
 
-![2023-01-03 (54)](https://user-images.githubusercontent.com/86152924/210439097-dde8a6d7-649f-46f7-920c-ac7df4e88e75.png)
+![2023-01-03 (54)](https://user-images.githubusercontent.com/86152924/210439472-325210d6-5fea-4d88-90d8-6c8cba458921.png)
 
 ◻ Record Editing Page ⬇
 
-![2023-01-03 (55)](https://user-images.githubusercontent.com/86152924/210439125-94c2cf21-3ceb-463a-b345-4ceb211b27b0.png)
+![2023-01-03 (55)](https://user-images.githubusercontent.com/86152924/210439498-acee5eb3-a3b7-4236-8aa9-1d72dbce6449.png)
